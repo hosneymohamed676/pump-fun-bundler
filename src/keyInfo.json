@@ -1,0 +1,1160 @@
+{
+  "numOfWallets": 24,
+  "pubkey1": "DQ4CwdyRcXjmJEk5yDiPSwwQFsw2hi3mHZWYBsuYSTqt",
+  "pubkey2": "3Tyz3pfzxDdNJyJCzajKxXRHTLGMY7W7h2Tsun6chvA9",
+  "pubkey3": "3KZH8mzfRWkaSo2oETFaKqu8g5kfYLXMy3VmiEbaqrJw",
+  "pubkey4": "2tJkvRQ86T6UsFoscxTCp6e1rWgcMYLjwPfxwGojWvE8",
+  "pubkey5": "4oEbbjnCP6ft1rbMxmVkvMpFxeKAEg6WJTBhgKQVAcRa",
+  "pubkey6": "45Xk2UpcE29mGwvQdyEVMy5rUPY9bNuf7vv5TBCs2hh1",
+  "pubkey7": "DEwrear11wXtcBHLC5yWAhvhDbELswt4rThBYcRb43Eu",
+  "pubkey8": "7XzT76JUY4CkbvkiGizTsWKXc7QQytHBdycHSmsUsbj2",
+  "pubkey9": "943k8XXqxCwkPMALrwpeGL6xuDTTaGAhBEzBmbtYtdGP",
+  "pubkey10": "HXAyEnLwmet2s9dBwVM6wK2xiWd8DLsBzcdZ318JEHRV",
+  "pubkey11": "EWThjggzD7n6Xa433k6CTdkjLebN4JXf5zHHuRtFU4VY",
+  "pubkey12": "KB1yx7UgJnfH2j54XsBbSMzqg54Q8QAReAxo87GkZH2",
+  "pubkey13": "jGXvSy2qpxrbfwje4hkAkTXdUkzFUkpqUXusm4Zpr5g",
+  "pubkey14": "5nZ67jz6QuD4tpikatuMnHjDUHKeqVb2kTxkUTem9f9j",
+  "pubkey15": "8VBCfnVQftCHMBv9bKtzA7t6epfgEGguHPFnNBPQKUKw",
+  "pubkey16": "89ZDrbqE4SBDkx2pzaaYUgigmDUFR8KG9PPb9y57bkpW",
+  "pubkey17": "F2x9DgspBJaQT4JgqBihgzDRpEbWqY1prA4YRWwEbxxC",
+  "pubkey18": "Cw4Zw17nzYNYy3u16x3fNek3UsBkDSfbv8q735R6jAt9",
+  "pubkey19": "8UsFEusskXosMQ2SebHW6QN3jQiQwcvPG1t1L7BRoogj",
+  "pubkey20": "CRpSUZz7EUrxikYwxQo7rjzmYJMcgX8chydv8vmnnmvq",
+  "pubkey21": "8zQxMcWgEQ5EVKy5LTiv48QwqYit6VYofFm3AMKbKf8k",
+  "pubkey22": "5vK2dGG2xNUXQ64Mfhztmoe4S4teoNGCC1oTnS5jtvi2",
+  "pubkey23": "A6YVfwMTuE8kr1NLdJGVv7szwrwqYn7fVxmGJ9j3JrQh",
+  "pubkey24": "HUdB1rxcMEQofGLAfi3jyQRCbgJqR1FLSLn5fKRjTFSt",
+  "addressLUT": "HPW9mqiporAY2hjCkuyxM63uWCCcEkP2kyrJux93jpoJ",
+  "mint": "8ThJYo8Un9XRjTRbEqCYj8oZFviGf1L5h4mo7W41kjEB",
+  "mintPk": "2GHSoNBDnPwikCRWQwvoxtqrPQFnNqAEaKpHLAxZhXmTgsEgTqFTqyBux9qDMgiubBwy7zTihgiCLbn2F8BwbRWT",
+  "7qhZk699YBgNcAhzUBVa4Zxd31JMDttKKxxqbZ27foq2": {
+    "solAmount": "0.2",
+    "tokenAmount": "7105960264900",
+    "percentSupply": 0.71059602649
+  },
+  "7eYTGwkaPmRXfrJkkvNs3qKpjfR1ojQf25Pu7DCNbNoh": {
+    "solAmount": "0.02",
+    "tokenAmount": "705422925039",
+    "percentSupply": 0.0705422925039
+  },
+  "Ah2PjFmw67Rc8MLyG7tXK8zr3Z2ttcCcrWrRKgNT2T9L": {
+    "solAmount": "0.02",
+    "tokenAmount": "704489825932",
+    "percentSupply": 0.0704489825932
+  },
+  "2R5s5THdjfvNgkYdmyeJSAeNYqrimCRqfEjM7sSv54wZ": {
+    "solAmount": "0.02",
+    "tokenAmount": "703558576988",
+    "percentSupply": 0.0703558576988
+  },
+  "74b8JLNpmhVHiAK5ZCvk654Dw9UjsXFdFuBVzgEUAeX7": {
+    "solAmount": "0.02",
+    "tokenAmount": "702629173320",
+    "percentSupply": 0.070262917332
+  },
+  "DzLCUq8MNQLJyDypNv1pDqj8tWwDzBxgBSeRMQsGJLGJ": {
+    "solAmount": "0.02",
+    "tokenAmount": "701701610055",
+    "percentSupply": 0.0701701610055
+  },
+  "BFzUDBzYSNbekDQhKACyHM2kW4Zsbofjz8kNgxQKxPVA": {
+    "solAmount": "0.02",
+    "tokenAmount": "700775882337",
+    "percentSupply": 0.0700775882337
+  },
+  "CBfcsG8QwAnomhmmMHXENaB9Rtjer23DBVQK6ZHcetcd": {
+    "solAmount": "0.02",
+    "tokenAmount": "699851985327",
+    "percentSupply": 0.06998519853270001
+  },
+  "F1aCj3pJ2Ai2RxarVmgzyskzWLTqXudBFb9eSjX82825": {
+    "solAmount": "0.02",
+    "tokenAmount": "698929914200",
+    "percentSupply": 0.06989299142000001
+  },
+  "6nT7wimijhAkGpGfvq8YV9E4NejCxT8E6zpmk8AjBJzQ": {
+    "solAmount": "0.02",
+    "tokenAmount": "698009664148",
+    "percentSupply": 0.0698009664148
+  },
+  "7dyBVr4oHWYnPoUM1VRecd87xFLKkcQRzVWSwupu6rXU": {
+    "solAmount": "0.02",
+    "tokenAmount": "697091230380",
+    "percentSupply": 0.06970912303799999
+  },
+  "9o4GeREvbWHhRJjtSA1prwQ9RoPWzjtnSJS3AXrX8rPx": {
+    "solAmount": "0.02",
+    "tokenAmount": "696174608117",
+    "percentSupply": 0.0696174608117
+  },
+  "HMvMaJtTCVNta8w2V7yNZ8iWrKKEf6dJaPzGRgA7rexr": {
+    "solAmount": "0.02",
+    "tokenAmount": "695259792601",
+    "percentSupply": 0.0695259792601
+  },
+  "4wn1b7uxsYwRehczKLWBVQ6wB2kXvYEr7p7Q716DLG9J": {
+    "solAmount": "0.02",
+    "tokenAmount": "694346779085",
+    "percentSupply": 0.0694346779085
+  },
+  "3GoekYx9RPW2HLLULCoRDWBTMBrn1VJwdDoDgcvmww14": {
+    "solAmount": "0.02",
+    "tokenAmount": "693435562839",
+    "percentSupply": 0.0693435562839
+  },
+  "BBMPuNduFFTQocHK6XdSUZAtzFFe1reGqyicQVJ7YsAA": {
+    "solAmount": "0.02",
+    "tokenAmount": "692526139150",
+    "percentSupply": 0.069252613915
+  },
+  "Gt7Fkx2HbDDof5SQCipVGTCGmdFPBBkxAfzMs8W5WyUN": {
+    "solAmount": "0.02",
+    "tokenAmount": "691618503319",
+    "percentSupply": 0.0691618503319
+  },
+  "D1pAP3qkZi3oVL182291NwqU3V4Cin6yGEvEvtXMTkmn": {
+    "solAmount": "0.02",
+    "tokenAmount": "690712650662",
+    "percentSupply": 0.0690712650662
+  },
+  "GP9xkLw6AdL9qvtEiHgJq3pmK4ki1DGH4zjBW9N9cFX": {
+    "solAmount": "0.02",
+    "tokenAmount": "689808576512",
+    "percentSupply": 0.0689808576512
+  },
+  "7E9Mm9VugrszDnPoM8ETq8camJWZ3qvcJEy8TZ1M4jB8": {
+    "solAmount": "0.02",
+    "tokenAmount": "688906276216",
+    "percentSupply": 0.0688906276216
+  },
+  "cwMtw57Fa3LXgdDD7r3EFMkijaqvhYafygTKW9jneUP": {
+    "solAmount": "0.02",
+    "tokenAmount": "688005745136",
+    "percentSupply": 0.0688005745136
+  },
+  "BQuY8hVtewk5TdEEzhntVLfBudMKGf38f4Bsz69qfdBM": {
+    "solAmount": "0.02",
+    "tokenAmount": "687106978650",
+    "percentSupply": 0.06871069786499999
+  },
+  "DmmnhcpubhM13cAdeCjjASzhTNuQpGqGYpkChJTyKTva": {
+    "solAmount": "0.02",
+    "tokenAmount": "686209972150",
+    "percentSupply": 0.06862099721499999
+  },
+  "4gPnQYQPLNmJrfNyXbYtCut4yFjrj99yN4KtKxxF26Ef": {
+    "solAmount": "0.02",
+    "tokenAmount": "685314721045",
+    "percentSupply": 0.0685314721045
+  },
+  "8vMTQQ5abBJuyGzpqwJxqXGHvPa8NxartWx7R1gmmSLA": {
+    "solAmount": "0.02",
+    "tokenAmount": "684421220757",
+    "percentSupply": 0.0684421220757
+  },
+  "6hn5XbNESwTXCpNSaPKrXLNcxtCuqt2ch5rd4JguT6aF": {
+    "solAmount": "1.47",
+    "tokenAmount": "50121067683508",
+    "percentSupply": 5.0121067683508
+  },
+  "2sYrZ314iLT6v2vH4FErJvM5oqDkvoz694vHtEeL4yme": {
+    "solAmount": "0.2",
+    "tokenAmount": "6459608034837",
+    "percentSupply": 0.6459608034837
+  },
+  "DJyLX6UtRNwZbmXzKHXJcYV9uXkWj4ccdaNBA6gXzYQs": {
+    "solAmount": "0.2",
+    "tokenAmount": "6378533569385",
+    "percentSupply": 0.6378533569385
+  },
+  "zYJjHY8CVzEv71VgA6ToYt761u6dnH7nrkHEfVsX33W": {
+    "solAmount": "0.2",
+    "tokenAmount": "6298975932100",
+    "percentSupply": 0.6298975932099999
+  },
+  "YSG9W9zoQEyJMyrsg4U4AYwzVT5vY1oGPRB29JUeKea": {
+    "solAmount": "0.2",
+    "tokenAmount": "6220897519554",
+    "percentSupply": 0.6220897519554001
+  },
+  "7mAWVZzCohwau6QZfRwdhRaWnBgzXmvnpceucZXNmHLH": {
+    "solAmount": "0.2",
+    "tokenAmount": "6144261886422",
+    "percentSupply": 0.6144261886422
+  },
+  "CuSb3vRiVFk7ZyCR1hwC67eJGEV6LMuyLZcrqYCsMzQ5": {
+    "solAmount": "0.2",
+    "tokenAmount": "6069033702933",
+    "percentSupply": 0.6069033702933
+  },
+  "GLED1xPa9KetwCkFXDS4q5RWR69uAQrryVgVFDA7114H": {
+    "solAmount": "0.2",
+    "tokenAmount": "5995178714154",
+    "percentSupply": 0.5995178714154
+  },
+  "BKSRJL5mKASuQ6xK2gK48uVjoDxCeaU1guJBM6sgK4z1": {
+    "solAmount": "0.2",
+    "tokenAmount": "5922663700980",
+    "percentSupply": 0.592266370098
+  },
+  "8HKU6XmPrXRR4eQCRTYrjenrBLC2wuSHmthVKSSMz4fv": {
+    "solAmount": "0.2",
+    "tokenAmount": "5851456442778",
+    "percentSupply": 0.5851456442778
+  },
+  "GddgaLZaa3xc1WGtAfh4FQuMrgJpEMgkqMJbEinZNsEF": {
+    "solAmount": "0.2",
+    "tokenAmount": "5781525681585",
+    "percentSupply": 0.5781525681585
+  },
+  "G1jNoWQoSfEaTnomvVio2yaci8PvM9PEjhcZqPHxV8BY": {
+    "solAmount": "0.2",
+    "tokenAmount": "5712841087803",
+    "percentSupply": 0.5712841087803
+  },
+  "QPx8CBFK6WNvcuruRPX66nsQ3YFFy2Xi9qw7YaW9xkb": {
+    "solAmount": "0.2",
+    "tokenAmount": "5645373227304",
+    "percentSupply": 0.5645373227304
+  },
+  "UiVT4n2AebANhhFc6i8M2A8vmzDkbDYW6gww1zyzySx": {
+    "solAmount": "0.2",
+    "tokenAmount": "5579093529889",
+    "percentSupply": 0.5579093529889
+  },
+  "9adGm2FFVjonXhN6vAndheZWwmtWj9rbgfWNuMcJ6bVM": {
+    "solAmount": "0.2",
+    "tokenAmount": "5513974259041",
+    "percentSupply": 0.5513974259041
+  },
+  "GduiYKUC49TsQKCtnD7KAEV7q1LuqpXodt14Q4nJpBJe": {
+    "solAmount": "0.2",
+    "tokenAmount": "5449988482899",
+    "percentSupply": 0.5449988482899
+  },
+  "FHARRZ9fWWuzyhFMRmdBtLJehw79sg3XEs9eiCoTVuF3": {
+    "solAmount": "0.2",
+    "tokenAmount": "5387110046408",
+    "percentSupply": 0.5387110046408
+  },
+  "NRAXsVcR1pAqsFSNoHrXBNePEHA7abBBUiALXvMQhUC": {
+    "solAmount": "0.2",
+    "tokenAmount": "5325313544585",
+    "percentSupply": 0.5325313544585
+  },
+  "CZVcUTYSPYjsfvndD3nLDZAXYxA5HTzEidPUFfdacy1M": {
+    "solAmount": "0.2",
+    "tokenAmount": "5264574296856",
+    "percentSupply": 0.5264574296856
+  },
+  "kmkBxaBfgNyDCFcttWdhks6ryCcPHWEhxmmo27msbDB": {
+    "solAmount": "0.2",
+    "tokenAmount": "5204868322409",
+    "percentSupply": 0.5204868322409
+  },
+  "6ZNKeSRZMak7cjfDTK8auTspESkEPkLvAGiCEhbkqV6Z": {
+    "solAmount": "0.2",
+    "tokenAmount": "5146172316518",
+    "percentSupply": 0.5146172316518001
+  },
+  "8H8KRrq3VKwkSRov85RQgoNgGrgoSS7WgonDw7EnNU74": {
+    "solAmount": "0.2",
+    "tokenAmount": "5088463627799",
+    "percentSupply": 0.5088463627799
+  },
+  "F4FsyLUR4EBjE7dN5QFPBZL2mXGQd2MV4f3NwsjAT47D": {
+    "solAmount": "0.2",
+    "tokenAmount": "5031720236354",
+    "percentSupply": 0.5031720236353999
+  },
+  "8Q8GCGWhePc9Q7E4wwwnbkU5t35GykH2eVMXJLPRW9XE": {
+    "solAmount": "0.2",
+    "tokenAmount": "4975920732763",
+    "percentSupply": 0.49759207327629995
+  },
+  "7PNrKD1tHXwfhTvxZme2Rotuds3rp2CvL5hj1jg2ckEi": {
+    "solAmount": "0.2",
+    "tokenAmount": "4921044297883",
+    "percentSupply": 0.4921044297883
+  },
+  "CgVFsnss4rEdmw4mW5JKqpzg7pWTJFpBk6UXAVrGDsvY": {
+    "solAmount": "1.47",
+    "tokenAmount": "50121067683508",
+    "percentSupply": 5.0121067683508
+  },
+  "7Cy4EVwinymhvJ45X5f4WKxAFasCwqvtaBcjoJJyxnqL": {
+    "solAmount": "1.47",
+    "tokenAmount": "50121067683508",
+    "percentSupply": 5.0121067683508
+  },
+  "BXvxrjhvfyYskkVzZGfuHivXPjvtgKppxamwzsNDN2Jg": {
+    "solAmount": "0.5",
+    "tokenAmount": "15997480955841",
+    "percentSupply": 1.5997480955841001
+  },
+  "4eTC6PAdQqTXupyS2hBfJv3iDqG13psEFf9ayjPqwsAY": {
+    "solAmount": "0.5",
+    "tokenAmount": "15504795986459",
+    "percentSupply": 1.5504795986459
+  },
+  "EvQN3YcTuwrzekRCtyB5ychdpNQoRVUSRbmQTCg3WLbR": {
+    "solAmount": "0.5",
+    "tokenAmount": "15034526165820",
+    "percentSupply": 1.503452616582
+  },
+  "ENdXmwrP7uMUtpg2ZNR4DtHFSVuFp459KqLtX9FPtZeT": {
+    "solAmount": "1",
+    "tokenAmount": "28741304951674",
+    "percentSupply": 2.8741304951674
+  },
+  "E3FsKPfAqi27VJRZQfpmaMSHUVEJ6HH6pKCNFyS4GWQj": {
+    "solAmount": "1",
+    "tokenAmount": "27097535723668",
+    "percentSupply": 2.7097535723668
+  },
+  "2eowHaRayyfQfQpGJWwf7hrWyajaBdAKBtZDvyvZkL6a": {
+    "solAmount": "1",
+    "tokenAmount": "25590861510509",
+    "percentSupply": 2.5590861510509
+  },
+  "3AqiVymQp4EywCuS1udKRN6HfkuWoNW6dn8S6E64NrCH": {
+    "solAmount": "1.2",
+    "tokenAmount": "28891442357466",
+    "percentSupply": 2.8891442357466
+  },
+  "31P11FtfyJo7wGBT7BEYQHkYFFxQtaMtayezywd9z7yY": {
+    "solAmount": "1.7",
+    "tokenAmount": "37875885616943",
+    "percentSupply": 3.7875885616943004
+  },
+  "EZ4SEn1Dp4bSv48cfVxxqBhFzvCrZ69TVxZ5DMHEL484": {
+    "solAmount": "1.5",
+    "tokenAmount": "30770811210606",
+    "percentSupply": 3.0770811210606
+  },
+  "4bLAdXfBfhRPVJnBACKYEVvxP5uPvzPdf8LJmz7t6Vkw": {
+    "solAmount": "2",
+    "tokenAmount": "37638625812485",
+    "percentSupply": 3.7638625812484996
+  },
+  "56SUATBTd8AcPDLcefZSTAKXASKkdTko1E62QpnpmQmU": {
+    "solAmount": "2",
+    "tokenAmount": "34245465946586",
+    "percentSupply": 3.4245465946586
+  },
+  "D1EiQhzbxajLb8Ccok58F1D31L1qecoDkXWroQ3FDQX9": {
+    "solAmount": "2",
+    "tokenAmount": "31291360624474",
+    "percentSupply": 3.1291360624473996
+  },
+  "9tTF9LVz3kYXx1KmnMepJXh6n3zEaGm3rN1tieZyEE3z": {
+    "solAmount": "1",
+    "tokenAmount": "14654820254464",
+    "percentSupply": 1.4654820254463998
+  },
+  "HsciVj9zJcVBBv1ug1gC3daVGzv9JNgKEXSaegWEdD1h": {
+    "solAmount": "1.5",
+    "tokenAmount": "20857704579481",
+    "percentSupply": 2.0857704579481
+  },
+  "HF1ebVjYY8rKpk5qBL6RzrSv7jA8LAThgxyrcw1Tjthu": {
+    "solAmount": "1.5",
+    "tokenAmount": "19615435098868",
+    "percentSupply": 1.9615435098868002
+  },
+  "BEeGS4cwFFG2TAw4yhySDNvNeM9zaXJ6cU3j1Nib9BRg": {
+    "solAmount": "3",
+    "tokenAmount": "35923039658299",
+    "percentSupply": 3.5923039658299003
+  },
+  "ewdnthxB9hJqXzs7pTe5rhPMg4r3Fk6ZtEiP3h5EYs2": {
+    "solAmount": "4",
+    "tokenAmount": "42053187091709",
+    "percentSupply": 4.2053187091709
+  },
+  "DUGoSSVsALDumfmm42NsEBMwpPq3FmvBKwD57A5e5DBN": {
+    "solAmount": "2",
+    "tokenAmount": "18901621989932",
+    "percentSupply": 1.8901621989932
+  },
+  "B4SfyVJp9WUUTC3W1GWytNHeavfoZa1CbdpPnNgrLZsJ": {
+    "solAmount": "1",
+    "tokenAmount": "8981166585741",
+    "percentSupply": 0.8981166585741
+  },
+  "8Jh3uD8yHzDgfB93Lr4aFtrBkMCUuVH9quGYkxLejG9a": {
+    "solAmount": "1.2",
+    "tokenAmount": "10392305217387",
+    "percentSupply": 1.0392305217387
+  },
+  "EAJPgt6rfdw7AhzigHU8UCWZZrFfAQrEvntW9XLbwAfb": {
+    "solAmount": "1.7",
+    "tokenAmount": "14047625153512",
+    "percentSupply": 1.4047625153512
+  },
+  "B38D1t5TNHrjkMEz9RnqRbJN7qzDk5KXUSXE5GdpSAYL": {
+    "solAmount": "1.5",
+    "tokenAmount": "11782582904691",
+    "percentSupply": 1.1782582904691001
+  },
+  "7M6xWhJ8zeCEjMvH8SByCPMyFChDvAigBdPqFch1gxku": {
+    "solAmount": "1.5",
+    "tokenAmount": "11249193004071",
+    "percentSupply": 1.1249193004071
+  },
+  "74KnDeL1DZN6i1nDnH6Yu4Qh6MurT8ufQXGYgbosxCVX": {
+    "solAmount": "1",
+    "tokenAmount": "7220754480686",
+    "percentSupply": 0.7220754480686
+  },
+  "2wfNFVe2ksmGbsdDQ1vcPq2GkYU2jPcqBxkgWbmxMSUy": {
+    "solAmount": "1.47",
+    "tokenAmount": "50121067683508",
+    "percentSupply": 5.0121067683508
+  },
+  "CCMnF2ppw6GdC9QXJToXTwfEf2RM3aF6DZHBpA4PnZn": {
+    "solAmount": "0.5",
+    "tokenAmount": "15997480955841",
+    "percentSupply": 1.5997480955841001
+  },
+  "kokmY4WznoxD6JYcJiJ9UgM6F9mLBH5TVYfEdkrNkhv": {
+    "solAmount": "1",
+    "tokenAmount": "30539322152279",
+    "percentSupply": 3.0539322152279
+  },
+  "FKyHvFm7WMpX74ZcTDNtX7s7ySCEqY9HERwge4izA3kQ": {
+    "solAmount": "1",
+    "tokenAmount": "28741304951674",
+    "percentSupply": 2.8741304951674
+  },
+  "FDpqPD4J27GZrKi3cd6bExZ4fgxy9omn3ZXLaWJo2Tjw": {
+    "solAmount": "1",
+    "tokenAmount": "27097535723668",
+    "percentSupply": 2.7097535723668
+  },
+  "9N5M6uZFEbyCE2uAHyscoUA4sSmtgJVGQKDvoSr9us1V": {
+    "solAmount": "1.5",
+    "tokenAmount": "37860020093214",
+    "percentSupply": 3.7860020093214
+  },
+  "3TvKSrnYHLYXnvyaUFT7HiYGDPjbEKshVbYMY7f1g219": {
+    "solAmount": "1.5",
+    "tokenAmount": "34868709577553",
+    "percentSupply": 3.4868709577553005
+  },
+  "H1AwEPgY7wbh3gMHdJjpi4P5K8wtsVYtGHEsiqa95U2L": {
+    "solAmount": "1.5",
+    "tokenAmount": "32218440291193",
+    "percentSupply": 3.2218440291193002
+  },
+  "GGHai47NrzvQaXiZuTH9LVjqqkWQwmPiwfumvfsZGrd4": {
+    "solAmount": "1.5",
+    "tokenAmount": "29859267216417",
+    "percentSupply": 2.9859267216417003
+  },
+  "CDmvXu4pYFLBSTjvrm7rwzPcPNMoPNaLhjmPNpdmFBe8": {
+    "solAmount": "1.5",
+    "tokenAmount": "27750065388085",
+    "percentSupply": 2.7750065388085
+  },
+  "4uGy5GA2oQiHU6TQv5ACR9q4W5p8qEUvBQes1AvDsUj6": {
+    "solAmount": "1.7",
+    "tokenAmount": "29171599188208",
+    "percentSupply": 2.9171599188208
+  },
+  "E8nmQ5yi1JZ5m7Uq1JxrMiQk7MzvvbJjYTeGKogDs84b": {
+    "solAmount": "2.3",
+    "tokenAmount": "36070215829357",
+    "percentSupply": 3.6070215829357
+  },
+  "9aHx5AxS74h2ZuptuDK4vm8p2KjFPTxnw5RGGgpLENUu": {
+    "solAmount": "2",
+    "tokenAmount": "28582833544419",
+    "percentSupply": 2.8582833544419
+  },
+  "9EaSU5DRpZcy3ALi5KMfffbGQLRTM67xVaGZzDeP5P3U": {
+    "solAmount": "2",
+    "tokenAmount": "26317500986906",
+    "percentSupply": 2.6317500986906
+  },
+  "WCbP1R2LvrLvUduNVoSaYF7SJJXAyedadXa5pN1BmTQ": {
+    "solAmount": "2.5",
+    "tokenAmount": "30102163319694",
+    "percentSupply": 3.0102163319694
+  },
+  "4vptT8kVah4z12gU32DxGciZ8W2M4HKstRmxqJe6xe6t": {
+    "solAmount": "2.5",
+    "tokenAmount": "27388790026049",
+    "percentSupply": 2.7388790026049
+  },
+  "6LEoaUyw1sAVbdddnk7Sni5QusFh6MNTK6k8KGFPM86U": {
+    "solAmount": "2",
+    "tokenAmount": "20195360468833",
+    "percentSupply": 2.0195360468833
+  },
+  "47eo61eXA24iZNsWNZjaWs2nVuavoFA4CPqRYWSRD5HC": {
+    "solAmount": "2.5",
+    "tokenAmount": "23349938411001",
+    "percentSupply": 2.3349938411001
+  },
+  "J2jX9Jamz4sbuUKdgUMdVmHwbHGTD3krDGgJeyFmVRR9": {
+    "solAmount": "3",
+    "tokenAmount": "25572576664702",
+    "percentSupply": 2.5572576664702003
+  },
+  "GfQrGbma6pnFMAnZMqZQ7hThDNK2HGznnRpns89612nB": {
+    "solAmount": "3.5",
+    "tokenAmount": "26917185592686",
+    "percentSupply": 2.6917185592686
+  },
+  "B9C6JN5gnkU8JTvL1ELJYMiCYgAMsLd2z64pV5Zmzitz": {
+    "solAmount": "1",
+    "tokenAmount": "7177688186374",
+    "percentSupply": 0.7177688186374
+  },
+  "B8PvLTRksdEtNxfhVH76tSwmgtmVqLjCMPHc8oAo7r7f": {
+    "solAmount": "1",
+    "tokenAmount": "6968028826469",
+    "percentSupply": 0.6968028826469
+  },
+  "DuzsHJrXyLUVa89DxBx5RAemeuKpBwH5Eg2t5ZPeFvdj": {
+    "solAmount": "1",
+    "tokenAmount": "6767423419056",
+    "percentSupply": 0.6767423419056
+  },
+  "7pK2bDot2sKDJzkD2BvqQfsXbvaj2ZvYAyk6SYL1h3F9": {
+    "solAmount": "1",
+    "tokenAmount": "6575358046016",
+    "percentSupply": 0.6575358046016
+  },
+  "DrzPW8GQRLzqAcDz3E7cTK78TaGA5EBCAkKnQLBrPLxB": {
+    "solAmount": "1",
+    "tokenAmount": "6391354742644",
+    "percentSupply": 0.6391354742644
+  },
+  "Af9nSjGRrrGuw3bY51zMes1GWoMyXHwzCsEt8NaaApu5": {
+    "solAmount": "7",
+    "tokenAmount": "202999999999999",
+    "percentSupply": 20.299999999999898
+  },
+  "3uMD9VEMjLF7fwcdnKLzBGMPzB9MBmcSFC1mkkp7CE3z": {
+    "solAmount": "0.5",
+    "tokenAmount": "11600000000000",
+    "percentSupply": 1.16
+  },
+  "J6dT7Ac4tr8MWSGfdiJjAPSQd1kxhimZUsbrghrLfhBG": {
+    "solAmount": "0.5",
+    "tokenAmount": "11294736842105",
+    "percentSupply": 1.1294736842105
+  },
+  "BMkXCBHy2BDEnfJoCMf6zBmsoyH7HMsJvAeB3q79DpGj": {
+    "solAmount": "0.7",
+    "tokenAmount": "15322317421460",
+    "percentSupply": 1.532231742146
+  },
+  "8QjT3SgBB3HdQeg6Woatu4Bz8phJwa9VrWmh5Pj7orfd": {
+    "solAmount": "0.6",
+    "tokenAmount": "12698976270785",
+    "percentSupply": 1.2698976270784998
+  },
+  "HdoXaXJXaXhp54JU34oJJuJVuULTLHyo44M3xVVedKL3": {
+    "solAmount": "1",
+    "tokenAmount": "20324664254730",
+    "percentSupply": 2.032466425473
+  },
+  "Dk5BwxNkLw3ZVJ9vmvMSq8zEMDrZSYXFFx2DEA4bUjr5": {
+    "solAmount": "0.75",
+    "tokenAmount": "14593653566581",
+    "percentSupply": 1.4593653566581
+  },
+  "HCd6DDBMbrGRBE4TP228YRSRbaZr4yceoY8Dx1qVGZbm": {
+    "solAmount": "1.2",
+    "tokenAmount": "22272160520075",
+    "percentSupply": 2.2272160520075
+  },
+  "pUiQTBiPMJrMSGL9V2k2ef7gpRuExYzjAuvWosAoo1E": {
+    "solAmount": "2",
+    "tokenAmount": "34435864005616",
+    "percentSupply": 3.4435864005615997
+  },
+  "FNHjups5PprYpr5rwfyFeQXmiFDumGS8RkSaTpfUWD92": {
+    "solAmount": "1.5",
+    "tokenAmount": "23851069741595",
+    "percentSupply": 2.3851069741595
+  },
+  "D6N1hPAkGuqGD1PAxu3qKkWnXtdZa4fmSyBLCSggiLHj": {
+    "solAmount": "1.7",
+    "tokenAmount": "25208243362296",
+    "percentSupply": 2.5208243362296
+  },
+  "E9wUEpxEDGsGyFc4UQFZm8hA1Jp91EFr26eytSezJpGT": {
+    "solAmount": "1",
+    "tokenAmount": "14002029185031",
+    "percentSupply": 1.4002029185031
+  },
+  "7dLGZ4DqdkYmpRWaCw4aU7FkM61menKzrTUCDbEhK2bY": {
+    "solAmount": "1.5",
+    "tokenAmount": "19951840385277",
+    "percentSupply": 1.9951840385277
+  },
+  "3pveGras9FhNBtFZPUHdVx5LKB6pZh5YSdBvPExW38dD": {
+    "solAmount": "1",
+    "tokenAmount": "12648566132373",
+    "percentSupply": 1.2648566132373
+  },
+  "B7ud7Ur2TRGu1qXkYA7QKb6D16NUKs7CYpnCz63AMaDS": {
+    "solAmount": "1.3",
+    "tokenAmount": "15719323288147",
+    "percentSupply": 1.5719323288147
+  },
+  "59NCirW6njT5NcijHCpz88WEpo3ZSKesm8tGrp5tHF1u": {
+    "solAmount": "2",
+    "tokenAmount": "22712499724384",
+    "percentSupply": 2.2712499724384
+  },
+  "7xQNVXrZAN91SHXNQVLqBF5hWmPishnhNhV6qzkKicCc": {
+    "solAmount": "1.6",
+    "tokenAmount": "16998791199270",
+    "percentSupply": 1.6998791199269998
+  },
+  "2YSakuoxzCrLmSyMVBFD2zipLszHznQwNS7e5t7jmXP5": {
+    "solAmount": "0.9",
+    "tokenAmount": "9140594496744",
+    "percentSupply": 0.9140594496744
+  },
+  "eD2MCU7n1PB9fXHasxZW3K2wfyV5MbSUMdhpxjhhdY8": {
+    "solAmount": "1.2",
+    "tokenAmount": "11745808516380",
+    "percentSupply": 1.1745808516379999
+  },
+  "Fi7CJx8f8giVDJQPME6X8wrHaUUJ1Nf3KQg1G2gsftGg": {
+    "solAmount": "1.5",
+    "tokenAmount": "14015446452997",
+    "percentSupply": 1.4015446452997
+  },
+  "2vcYQeCdM37djEDKy6PbqsSk7vg1GpaTRk9n6Mbf6JXd": {
+    "solAmount": "1",
+    "tokenAmount": "8957211160201",
+    "percentSupply": 0.8957211160201
+  },
+  "2zmbkkvwXSmzrFnRuxbQzzPQ6wJrfW2PqM5Qpz7dgn4M": {
+    "solAmount": "1",
+    "tokenAmount": "8665682725369",
+    "percentSupply": 0.8665682725369
+  },
+  "7mukkLQcC31UjhtW8fga18K1sfvTFFf3uRD2Ppvc6vWx": {
+    "solAmount": "1",
+    "tokenAmount": "8388158859064",
+    "percentSupply": 0.8388158859064
+  },
+  "3zULTtJrGaFZqTv9zrimDTFVmabZMhSCc5aKQtCwyofF": {
+    "solAmount": "1",
+    "tokenAmount": "8123756688566",
+    "percentSupply": 0.8123756688566001
+  },
+  "94b5vdKNzmmYF81MG7mPhgqmjq4MURiZxUNdLvSdyPB2": {
+    "solAmount": "1",
+    "tokenAmount": "7871661833994",
+    "percentSupply": 0.7871661833993999
+  },
+  "8kKWoPq7TpaUg5RhjLdhb6eSddyQW4Bd9cPgx4h3WET8": {
+    "solAmount": "4",
+    "tokenAmount": "126235294117647",
+    "percentSupply": 12.6235294117647
+  },
+  "2n2nMJ8Zbk5bcRPJkeXymwe6QWEwF48NbNNcSA92iBAP": {
+    "solAmount": "0.5",
+    "tokenAmount": "13721227621483",
+    "percentSupply": 1.3721227621482999
+  },
+  "DqUVodP5QsZijUBJ8XyV92YRZXGCAHSqTBQsTVqiVomr": {
+    "solAmount": "0.5",
+    "tokenAmount": "13329192546583",
+    "percentSupply": 1.3329192546583
+  },
+  "EZgCYbZfyGAAiUJujufYDVGCGchZySEbqRNUqPedwBuu": {
+    "solAmount": "0.7",
+    "tokenAmount": "18033613445378",
+    "percentSupply": 1.8033613445377998
+  },
+  "EhLfBXNr2g7qv7odJ2wUTPVmxHnARL4dkbb5dqEZ3N2F": {
+    "solAmount": "0.6",
+    "tokenAmount": "14903812764775",
+    "percentSupply": 1.4903812764775
+  },
+  "9yMqTQ9bC9YR2nHc4xxm2k1kwQxw9b7NvPzBKRd5R2Ek": {
+    "solAmount": "1",
+    "tokenAmount": "23774178538984",
+    "percentSupply": 2.3774178538984
+  },
+  "CSUDtm1diFZf8qUdW7qa1QDyBkzayTE7XnAcYTPCuCkY": {
+    "solAmount": "0.75",
+    "tokenAmount": "17010565327828",
+    "percentSupply": 1.7010565327828
+  },
+  "5rAVPKTKivUjASmRfA8g81Q2QN9N7fGs4xgZoueY6AC": {
+    "solAmount": "1.2",
+    "tokenAmount": "25864727102287",
+    "percentSupply": 2.5864727102287
+  },
+  "FNHp6encAgbU7NegM7rmAqyxLy9HWuSH3zuAxmwQY5J": {
+    "solAmount": "2",
+    "tokenAmount": "39763752171395",
+    "percentSupply": 3.9763752171395
+  },
+  "B8pF5w3558wjBzo84J4nn9BFoYK8e5yrkQtTJwCKKEJv": {
+    "solAmount": "1.5",
+    "tokenAmount": "27381180223285",
+    "percentSupply": 2.7381180223285
+  },
+  "H8YVkak556BneiHyT2UcWZbi6r1FQRViRXx6PbhXc9nZ": {
+    "solAmount": "1.7",
+    "tokenAmount": "28797979199968",
+    "percentSupply": 2.8797979199968
+  },
+  "Caz1gNR1Kii8EKtid5j8EDziEdvRyRoyDpSC9cTvcz18": {
+    "solAmount": "1",
+    "tokenAmount": "15933651857874",
+    "percentSupply": 1.5933651857874
+  },
+  "9Sf7UTerygRCRnRUdvFN6JGWXoNwccrS1MrgPiomijyE": {
+    "solAmount": "1.5",
+    "tokenAmount": "22627821887620",
+    "percentSupply": 2.2627821887620003
+  },
+  "8nwdtxKFvCQJ8oHHtaWjgEus2H4JccZFQdykh9QWZkYD": {
+    "solAmount": "1",
+    "tokenAmount": "14298707053073",
+    "percentSupply": 1.4298707053073
+  },
+  "EbHvZ3nhwwnQJQf6E1hBDbMGMGymgjs9PCGnYjrMa3Mg": {
+    "solAmount": "1.3",
+    "tokenAmount": "17720235228108",
+    "percentSupply": 1.7720235228108
+  },
+  "DJS1sKJVPK9H3gLHd531Z62mp7J6SF7gaaW1iZj9pcfZ": {
+    "solAmount": "2",
+    "tokenAmount": "25506499938096",
+    "percentSupply": 2.5506499938096
+  },
+  "5TfapRTfmELC4gwfGgDcNUwLAixUau7vNgcThQnXnWgs": {
+    "solAmount": "1.6",
+    "tokenAmount": "19015252555553",
+    "percentSupply": 1.9015252555553
+  },
+  "DEc4sZ1WvH1cReBQFpZVcckkC7T28DKoS6a6xX5mr5f": {
+    "solAmount": "0.9",
+    "tokenAmount": "10198587489824",
+    "percentSupply": 1.0198587489824
+  },
+  "45u1JpmMBcPimiJKhY4w3b3xsf7GHUfgtrM56ZEfAjpL": {
+    "solAmount": "1.2",
+    "tokenAmount": "13078443405209",
+    "percentSupply": 1.3078443405209002
+  },
+  "4bcjmGVLqokcS53XxfTvQPHLpBvWpNq43bMGsv3ecCqR": {
+    "solAmount": "1.5",
+    "tokenAmount": "15566127835031",
+    "percentSupply": 1.5566127835031
+  },
+  "9kKz2MvFKXwG66ccM8cY16KjydHTrkzGcQCHuJc4TjED": {
+    "solAmount": "1",
+    "tokenAmount": "9925833763098",
+    "percentSupply": 0.9925833763098
+  },
+  "eEA8H9jvUzPFZEYMespq2pHJh8febVGwkmXCgnuU1Co": {
+    "solAmount": "1",
+    "tokenAmount": "9586198732710",
+    "percentSupply": 0.958619873271
+  },
+  "RrTHq8xX6THZY9k8nkoputvgnhcGG8Cr87Sy1KiPemw": {
+    "solAmount": "2",
+    "tokenAmount": "18220913720237",
+    "percentSupply": 1.8220913720237
+  },
+  "AuQ2tPASPHoM7PDMLpx7WaZ9WEvZfMJc3bq7GBsrHfn8": {
+    "solAmount": "2",
+    "tokenAmount": "17053841584434",
+    "percentSupply": 1.7053841584434002
+  },
+  "9ZS8xMmWnohzBBmi6HzocUQm2BJGypS6i7akxeqv9dL9": {
+    "solAmount": "2",
+    "tokenAmount": "15995418522560",
+    "percentSupply": 1.5995418522559999
+  },
+  "4y3KNhUfXSwqt5Xzt3Qp3PaSmpQ8zrBXQXra2BK3uzkE": {
+    "solAmount": "1.47",
+    "tokenAmount": "50121067683508",
+    "percentSupply": 5.0121067683508
+  },
+  "ER6sxmd2rpZsdQvcfCPx2eHMB8fNHrhNDBNmQmw6pTB6": {
+    "solAmount": "1.22",
+    "tokenAmount": "38174129624537",
+    "percentSupply": 3.8174129624537
+  },
+  "AfymY4K2WUK3kPfrfB8gkAwg1PCV7W2MfrrYMCSRYFmJ": {
+    "solAmount": "1.45",
+    "tokenAmount": "41822553131322",
+    "percentSupply": 4.1822553131322
+  },
+  "NTJhgVBMQd6R7nDdPRV5QrSdRmrUKJa46VLzNgbdd6J": {
+    "solAmount": "1.98",
+    "tokenAmount": "51686236271596",
+    "percentSupply": 5.1686236271596
+  },
+  "CZ9N31SjXsHd7AUA55nYJ5vtgdRN2ndYkSs4DL9BRZMt": {
+    "solAmount": "1.5",
+    "tokenAmount": "35534131311365",
+    "percentSupply": 3.5534131311365
+  },
+  "7oCEyCG6bweRuJTSafpwQRHExGjgVvqXvaFaiSXGJDPX": {
+    "solAmount": "1.76",
+    "tokenAmount": "38241871820231",
+    "percentSupply": 3.8241871820231
+  },
+  "EVe3Fxka5c5jYWFbyi9aLsyvYDg6ybksjkYLa69LMMLr": {
+    "solAmount": "2",
+    "tokenAmount": "39507975358020",
+    "percentSupply": 3.950797535802
+  },
+  "HKNfh64xUWhEyraMisTpkdf6pLYtUtm2GvPVJSu4SJ96": {
+    "solAmount": "2.3",
+    "tokenAmount": "40961485348870",
+    "percentSupply": 4.096148534887
+  },
+  "GYWZD5LrByFwHeXpFxjxNcrh2QfQxLsWzgMoExKcmyAu": {
+    "solAmount": "2.5",
+    "tokenAmount": "39895547285109",
+    "percentSupply": 3.9895547285109
+  },
+  "94hcMAARrPgDAtjCdP1wecn9aBaApeTffDdHKdcoWWvr": {
+    "solAmount": "1.8",
+    "tokenAmount": "26150458605623",
+    "percentSupply": 2.6150458605623
+  },
+  "NC86GKq81CG4GJEgcUhLPdigYsEd2UF4DHo8CWjvaxx": {
+    "solAmount": "3",
+    "tokenAmount": "39480455682217",
+    "percentSupply": 3.9480455682217004
+  },
+  "HwCk99m5cGA7SqZyJvhzB599vkUX5X1QDQgK88YN8Y4E": {
+    "solAmount": "2.46",
+    "tokenAmount": "29066303446461",
+    "percentSupply": 2.9066303446461
+  },
+  "8L84LBmrRQuCFPtCCFFJjggMjLjStq6gcpZUdaMrXBwn": {
+    "solAmount": "1.88",
+    "tokenAmount": "20470582695779",
+    "percentSupply": 2.0470582695779003
+  },
+  "2TYXxLHUMrpq2BY27UQzBhVk1SUoMoh5wzkpZeXmfCND": {
+    "solAmount": "2.3",
+    "tokenAmount": "23227014300439",
+    "percentSupply": 2.3227014300439
+  },
+  "8yMPi9qvT7q2KGEEGeD8dxpvEVxnnuBUPUVN45Ss9UjN": {
+    "solAmount": "1.67",
+    "tokenAmount": "15735579575245",
+    "percentSupply": 1.5735579575245
+  },
+  "ACj7V436Gi5BWbBiLX8Yebr9useXPos7KRe3mDzSSe91": {
+    "solAmount": "1.54",
+    "tokenAmount": "13744926781257",
+    "percentSupply": 1.3744926781256999
+  },
+  "61WirsxUCX2j1UKsx9U4iygeqcAm9tD5e9qNjVC7FXf1": {
+    "solAmount": "2.3",
+    "tokenAmount": "19279475154132",
+    "percentSupply": 1.9279475154132
+  },
+  "GVhjozodYLqWQVAEsrqzyRSnhvU5JQnrC3dMDNj9CSbr": {
+    "solAmount": "0.5",
+    "tokenAmount": "4006759436777",
+    "percentSupply": 0.40067594367770004
+  },
+  "BjV7TGwKXnHs1Zxfj5pay6nq8tjJhwfR56yXAgNBUGtJ": {
+    "solAmount": "0.99",
+    "tokenAmount": "7750456701062",
+    "percentSupply": 0.7750456701062001
+  },
+  "DirYyv3SiDGTgFgjnTmJvUCBmb7LH1zeU51LPhKxRA6n": {
+    "solAmount": "2.45",
+    "tokenAmount": "18196665051092",
+    "percentSupply": 1.8196665051092
+  },
+  "8uFR8FqyGYLRgiCwgoDeRN7r3eQRfu8gBv5gbG2DzDM2": {
+    "solAmount": "2.6",
+    "tokenAmount": "17911015420007",
+    "percentSupply": 1.7911015420007
+  },
+  "AT4W7gMzy6DPZqirh5xNuJytPdo4gpepLNpJMHrKcSJJ": {
+    "solAmount": "1.8",
+    "tokenAmount": "11636540601198",
+    "percentSupply": 1.1636540601198
+  },
+  "J89x4s3WwLy2Tk5Yjkk7UFQ1JQ1NFpT7roZrfCCgkxD3": {
+    "solAmount": "1.9",
+    "tokenAmount": "11663590848533",
+    "percentSupply": 1.1663590848533
+  },
+  "8sHpiY4xNTftCxJXX7hXfp67VEN3upQxRkzm12Bi9WR2": {
+    "solAmount": "1.5",
+    "tokenAmount": "8789939452363",
+    "percentSupply": 0.8789939452362999
+  },
+  "9qBkySjayNCbj7pKo4y9ZjBpUy2zChVuviXRBkz7LUom": {
+    "solAmount": "1",
+    "tokenAmount": "5666867515661",
+    "percentSupply": 0.5666867515661
+  },
+  "CEVeGcQ7pkjUKMRH37FWN4kFxfts2jRrZL3397LbWZWb": {
+    "solAmount": "1.47",
+    "tokenAmount": "50121067683508",
+    "percentSupply": 5.0121067683508
+  },
+  "6MSYjL9rnZnmpcjFvgoPDUoDKQk1UWW7ypXiUimi11P6": {
+    "solAmount": "0.75",
+    "tokenAmount": "23810031012953",
+    "percentSupply": 2.3810031012953
+  },
+  "39cNonLkbzBnLFQhL2xgWWtvLXhueK4Z6yU9ZxSB96Mm": {
+    "solAmount": "0.8",
+    "tokenAmount": "24205182345331",
+    "percentSupply": 2.4205182345331
+  },
+  "7T6B8ZEcYnwkVxXGRV2JSNeeojTcpV3mYVbHFj6jDgL8": {
+    "solAmount": "1.1",
+    "tokenAmount": "31428783436519",
+    "percentSupply": 3.1428783436519003
+  },
+  "3yyb7ssGRofpwu2aB7vsDL4HR68vzRfd4sFL8ZgMnFnd": {
+    "solAmount": "1.2",
+    "tokenAmount": "32053282067554",
+    "percentSupply": 3.2053282067554
+  },
+  "D4hhCo1RabTUHbccm9J35sn7zjfux1aPvmRYE7fvJ2EK": {
+    "solAmount": "1.35",
+    "tokenAmount": "33552365207610",
+    "percentSupply": 3.3552365207609998
+  },
+  "B6cpEwAHDXUBN3kGxs5NLryQudzxjEztUJuicSw58s6N": {
+    "solAmount": "1",
+    "tokenAmount": "23303140118038",
+    "percentSupply": 2.3303140118038
+  },
+  "57kr1eQDo4KvaqxBoxP5EcxaWAMjy7AM7dRKKXzPzEdU": {
+    "solAmount": "2.1",
+    "tokenAmount": "45122074706306",
+    "percentSupply": 4.5122074706305995
+  },
+  "9pBSbFsXohYLhbSyWA7s6zQwB8qovffnNk7L92u87Pzk": {
+    "solAmount": "1.75",
+    "tokenAmount": "34115056081137",
+    "percentSupply": 3.4115056081137
+  },
+  "9oJW4F2xRdWNJ7qQ8CyDFTdh8ZyJHVFi1NC39m6pVwME": {
+    "solAmount": "1.85",
+    "tokenAmount": "33070894214455",
+    "percentSupply": 3.3070894214454998
+  },
+  "F7L6aKPrHqkp6JvGyRpTY8EPro2hEGunPVdrQZTbTF2e": {
+    "solAmount": "2",
+    "tokenAmount": "32718453741529",
+    "percentSupply": 3.2718453741529
+  },
+  "9LPgcVAzg1P3y6818ZEDMhwrDgohdX63yz1s8CrZvUoR": {
+    "solAmount": "2.2",
+    "tokenAmount": "32812681787831",
+    "percentSupply": 3.2812681787830997
+  },
+  "3jQjAspLg2QJe6jQNS23bQW15aSoTtLosYNSXHKPtpPp": {
+    "solAmount": "1.8",
+    "tokenAmount": "24671593633279",
+    "percentSupply": 2.4671593633279
+  },
+  "5oScdhezNfza8HVs8yTLLqjf8ZEsGXUbWwRCbJKPQYBH": {
+    "solAmount": "2.3",
+    "tokenAmount": "29023328935883",
+    "percentSupply": 2.9023328935883
+  },
+  "3FaFaKkpHXjHsMfi7VLi55wxbUv5vfQfRdPYYyVno2JQ": {
+    "solAmount": "2.5",
+    "tokenAmount": "28751710588336",
+    "percentSupply": 2.8751710588336
+  },
+  "CcjFxY7xpcJHY2SHs5x6PutLsRpjwaF7qkoGy7QaCGYP": {
+    "solAmount": "2.66",
+    "tokenAmount": "27814171085864",
+    "percentSupply": 2.7814171085863997
+  },
+  "3Cyzy7Gjm7gsbJLQiVgmjfaygUQtMMJiRppL8soAX3Ro": {
+    "solAmount": "2.8",
+    "tokenAmount": "26597238192031",
+    "percentSupply": 2.6597238192031
+  },
+  "DP65E1Ef5h8PFXw9zT1SCBMjVGuwF8qXSNuZhbWoFsmR": {
+    "solAmount": "1.99",
+    "tokenAmount": "17433618969036",
+    "percentSupply": 1.7433618969035998
+  },
+  "8aGF5pZs2qdwK1efK961eniVMrxEFmKeP4eymZehdVkT": {
+    "solAmount": "3",
+    "tokenAmount": "24252336406350",
+    "percentSupply": 2.425233640635
+  },
+  "5V1rSce2htxN1pTCdY48EKZSab1JFKa1YwXbrAH3mn4p": {
+    "solAmount": "3.2",
+    "tokenAmount": "23504240155066",
+    "percentSupply": 2.3504240155066003
+  },
+  "3egKdjxRnUpmPeoQCFdrCbCXncuYbSMpNz6RmabQbxKV": {
+    "solAmount": "3.3",
+    "tokenAmount": "22023451543638",
+    "percentSupply": 2.2023451543637997
+  },
+  "6jqe71T3jpmZNn77vLCa3yVVMKXqeEWzjxJkdXH9gNM2": {
+    "solAmount": "3.25",
+    "tokenAmount": "19779477192216",
+    "percentSupply": 1.9779477192216
+  },
+  "CbGnByxfdagg4zYTnfdiTqEskdQCKGoj9RtVAeoYp43r": {
+    "solAmount": "3.5",
+    "tokenAmount": "19454544409070",
+    "percentSupply": 1.945454440907
+  },
+  "FvG7TPA3Bqf631LjEsqT78eZK5LZD6PhkTMSAzWMxZZZ": {
+    "solAmount": "3.6",
+    "tokenAmount": "18266510314855",
+    "percentSupply": 1.8266510314855
+  },
+  "8B13jR8RoudGJoh6Kddh8YZnPjMox9LK28t6BNv5LASz": {
+    "solAmount": "3.8",
+    "tokenAmount": "17608022885564",
+    "percentSupply": 1.7608022885564
+  },
+  "6vwNiGQ91ZA4LsXqQnmkcYVhQUJZ2a5TeyTK94PG7SmZ": {
+    "solAmount": "0.5",
+    "tokenAmount": "17590163934426",
+    "percentSupply": 1.7590163934426002
+  },
+  "DQ4CwdyRcXjmJEk5yDiPSwwQFsw2hi3mHZWYBsuYSTqt": {
+    "solAmount": "0.1",
+    "tokenAmount": "3449051751848",
+    "percentSupply": 0.3449051751848
+  },
+  "HXAyEnLwmet2s9dBwVM6wK2xiWd8DLsBzcdZ318JEHRV": {
+    "solAmount": "0.1",
+    "tokenAmount": "3426582359328",
+    "percentSupply": 0.34265823593280004
+  },
+  "EWThjggzD7n6Xa433k6CTdkjLebN4JXf5zHHuRtFU4VY": {
+    "solAmount": "0.1",
+    "tokenAmount": "3404331824527",
+    "percentSupply": 0.3404331824527
+  },
+  "KB1yx7UgJnfH2j54XsBbSMzqg54Q8QAReAxo87GkZH2": {
+    "solAmount": "0.1",
+    "tokenAmount": "3382297314336",
+    "percentSupply": 0.3382297314336
+  },
+  "jGXvSy2qpxrbfwje4hkAkTXdUkzFUkpqUXusm4Zpr5g": {
+    "solAmount": "0.1",
+    "tokenAmount": "3360476041340",
+    "percentSupply": 0.336047604134
+  },
+  "5nZ67jz6QuD4tpikatuMnHjDUHKeqVb2kTxkUTem9f9j": {
+    "solAmount": "0.1",
+    "tokenAmount": "3338865262939",
+    "percentSupply": 0.3338865262939
+  },
+  "8VBCfnVQftCHMBv9bKtzA7t6epfgEGguHPFnNBPQKUKw": {
+    "solAmount": "0.1",
+    "tokenAmount": "3317462280484",
+    "percentSupply": 0.3317462280484
+  },
+  "89ZDrbqE4SBDkx2pzaaYUgigmDUFR8KG9PPb9y57bkpW": {
+    "solAmount": "0.1",
+    "tokenAmount": "3296264438436",
+    "percentSupply": 0.3296264438436
+  },
+  "F2x9DgspBJaQT4JgqBihgzDRpEbWqY1prA4YRWwEbxxC": {
+    "solAmount": "0.1",
+    "tokenAmount": "3275269123542",
+    "percentSupply": 0.3275269123542
+  },
+  "Cw4Zw17nzYNYy3u16x3fNek3UsBkDSfbv8q735R6jAt9": {
+    "solAmount": "0.1",
+    "tokenAmount": "3254473764027",
+    "percentSupply": 0.3254473764027
+  },
+  "8UsFEusskXosMQ2SebHW6QN3jQiQwcvPG1t1L7BRoogj": {
+    "solAmount": "0.1",
+    "tokenAmount": "3233875828812",
+    "percentSupply": 0.3233875828812
+  },
+  "3Tyz3pfzxDdNJyJCzajKxXRHTLGMY7W7h2Tsun6chvA9": {
+    "solAmount": "0.1",
+    "tokenAmount": "3213472826738",
+    "percentSupply": 0.32134728267379997
+  },
+  "CRpSUZz7EUrxikYwxQo7rjzmYJMcgX8chydv8vmnnmvq": {
+    "solAmount": "0.1",
+    "tokenAmount": "3193262305815",
+    "percentSupply": 0.3193262305815
+  },
+  "8zQxMcWgEQ5EVKy5LTiv48QwqYit6VYofFm3AMKbKf8k": {
+    "solAmount": "0.1",
+    "tokenAmount": "3173241852487",
+    "percentSupply": 0.3173241852487
+  },
+  "5vK2dGG2xNUXQ64Mfhztmoe4S4teoNGCC1oTnS5jtvi2": {
+    "solAmount": "0.1",
+    "tokenAmount": "3153409090909",
+    "percentSupply": 0.3153409090909
+  },
+  "A6YVfwMTuE8kr1NLdJGVv7szwrwqYn7fVxmGJ9j3JrQh": {
+    "solAmount": "0.1",
+    "tokenAmount": "3133761682243",
+    "percentSupply": 0.3133761682243
+  },
+  "HUdB1rxcMEQofGLAfi3jyQRCbgJqR1FLSLn5fKRjTFSt": {
+    "solAmount": "0.1",
+    "tokenAmount": "3114297323968",
+    "percentSupply": 0.3114297323968
+  },
+  "3KZH8mzfRWkaSo2oETFaKqu8g5kfYLXMy3VmiEbaqrJw": {
+    "solAmount": "0.1",
+    "tokenAmount": "3095013749206",
+    "percentSupply": 0.3095013749206
+  },
+  "2tJkvRQ86T6UsFoscxTCp6e1rWgcMYLjwPfxwGojWvE8": {
+    "solAmount": "0.1",
+    "tokenAmount": "3075908726063",
+    "percentSupply": 0.3075908726063
+  },
+  "4oEbbjnCP6ft1rbMxmVkvMpFxeKAEg6WJTBhgKQVAcRa": {
+    "solAmount": "0.1",
+    "tokenAmount": "3056980056980",
+    "percentSupply": 0.305698005698
+  },
+  "45Xk2UpcE29mGwvQdyEVMy5rUPY9bNuf7vv5TBCs2hh1": {
+    "solAmount": "0.1",
+    "tokenAmount": "3038225578102",
+    "percentSupply": 0.3038225578102
+  },
+  "DEwrear11wXtcBHLC5yWAhvhDbELswt4rThBYcRb43Eu": {
+    "solAmount": "0.1",
+    "tokenAmount": "3019643158664",
+    "percentSupply": 0.3019643158664
+  },
+  "7XzT76JUY4CkbvkiGizTsWKXc7QQytHBdycHSmsUsbj2": {
+    "solAmount": "0.1",
+    "tokenAmount": "3001230700380",
+    "percentSupply": 0.300123070038
+  },
+  "943k8XXqxCwkPMALrwpeGL6xuDTTaGAhBEzBmbtYtdGP": {
+    "solAmount": "0.1",
+    "tokenAmount": "2982986136852",
+    "percentSupply": 0.2982986136852
+  }
+}
