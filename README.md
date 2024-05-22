@@ -46,7 +46,7 @@ To get started with the Pump.Fun Zorro Bundle Tool, follow these steps:
    
 2. Navigate to the project directory:
     ```bash
-    cd pumpfun-launcher
+    cd pump-fun-bundler
     ```
 3. Put your token image in the main directory
 
